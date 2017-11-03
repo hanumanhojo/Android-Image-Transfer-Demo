@@ -5,6 +5,10 @@ This app allows images to be streamed from an nRF52 kit with a connected camera 
 Different image resolutions can be selected in the app, and the BLE phy can be changed between 1Mbps and 2Mbps to demonstrate the difference (this requires a phone that supports 2Mbps). 
 
 Tested on:   
+- Google Pixel XL
+	- Up to 500kbps speed
+- HTC One M8
+	- Up to 63kbps speed
 - Samsung Galaxy S8 
 	- Up to 1200kbps speed          
 - Samsung Galaxy S6 (1Mbps mode only)
